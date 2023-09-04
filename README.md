@@ -2,17 +2,17 @@
 
 Olá, visitante! :heavy_heart_exclamation:
 
-Neste repositório você irá encontrar as atividades práticas e projetos desenvolvidos durante os meus estudos sobre a linguagem estruturada, ou SQL.
+Neste repositório você irá encontrar as atividades práticas e projetos desenvolvidos durante os meus estudos sobre banco de dados relacionais e não-relacionais.
 
 ## *Eles são:*
 
-* Chaves
-* ExerciciosCRUD
+* Chaves - SQL
+* ExerciciosCRUD - SQL
 
 Atividade | Descrição
 :---------: | :---------
-Chaves  | Uma pequena demonstração sobre a aplicação de chaves primárias e estrangeiras
-ExerciciosCRUD | Aplicação de códigos para Consulta, Manipulação, Definição e Exclusão de dados.
+Chaves  | Uma pequena demonstração sobre a aplicação de chaves primárias e estrangeiras em banco de dados relacionais
+ExerciciosCRUD | Aplicação de códigos para Consulta, Manipulação, Definição e Exclusão de dados em banco relacionais.
 
 
 
