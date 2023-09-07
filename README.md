@@ -7,12 +7,14 @@ Neste repositório você irá encontrar as atividades práticas e projetos desen
 ## *Eles são:*
 
 * Chaves - SQL
+* Exemplos1 - SQL
 * ExerciciosCRUD - SQL
 * NOSQL
 
 Atividade | Descrição
 :---------: | :---------
 Chaves  | Uma pequena demonstração sobre a aplicação de chaves primárias e estrangeiras em banco de dados relacionais.
+Exemplos 1  | Aplicação de script mysql para explorar o banco de dados.
 ExerciciosCRUD  | Aplicação de códigos para modelagem de tabelas, colunas e registros com operações CRUD.
 NOSQL  | Uma pequena demonstração sobre bancos de dados não-relacional usando o MongoDB, que é orientado a documentos, e a sintaxe Json.
 
